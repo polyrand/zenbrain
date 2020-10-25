@@ -1,1 +1,5 @@
 asd asd hi
+
+www.google.com
+
+<a href="www.google.com">www.google.com</a>
